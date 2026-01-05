@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>🌌 IDENTITY: MAHI 07 CLOUD</h1>
+  <h1>MAHI 07 CLOUD</h1>
   <code><b>FULL-STACK_ENGINEER // CLOUD_ARCHITECT // PROBLEM_SOLVER</b></code>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&color=00FFD1&center=true&vCenter=true&width=500&lines=Level+99+Javascript+Wizard;Deploying+Scalable+Solutions...;Mastering+The+MERN+Stack;Always+Learning.+Always+Coding." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=70A5FD&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);npm+install+innovation;git+commit+-m+%22Creating+Magic%22;while(live)+{+code();+}" />
 </div>
 
 ---
