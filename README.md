@@ -23,3 +23,11 @@ DevOps:   [AWS, Docker, Kubernetes, Terraform]
 <p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmahi07-cloud%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D70a5fd%26icon_color%3D70a5fd%26text_color%3Dffffff%26hide_border%3Dtrue" /> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmahi07-cloud%26layout%3Dcompact%26theme%3Dtransparent%26title_color%3D70a5fd%26text_color%3Dffffff%26hide_border%3Dtrue" /> </p>
 
 <div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmahi07-cloud%26theme%3Dtransparent%26stroke%3D70a5fd%26ring%3D70a5fd%26fire%3D70a5fd%26currStreakLabel%3D70a5fd%26sideNums%3Dffffff%26sideLabels%3Dffffff%26hide_border%3Dtrue" width="100%" /> </div>
+
+🕹 System Activity
+<div align="center"> <img src="https://raw.githubusercontent.com/mahi07-cloud/mahi07-cloud/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </div>
+
+📡 Contact Protocol
+<p align="center"> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your-email@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/DIRECT_EMAIL-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+
+<div align="center"> <code><b>STATUS:</b> OPEN_FOR_COLLABORATION</code> | <code><b>LOCATION:</b> GLOBAL_CLOUD</code> </div>
