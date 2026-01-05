@@ -18,3 +18,8 @@ Frontend: [React, Next.js, Tailwind, TypeScript]
 Backend:  [Node.js, Express, Rest-API, GraphQL]
 Database: [MongoDB, PostgreSQL, Redis]
 DevOps:   [AWS, Docker, Kubernetes, Terraform]
+
+📈 Analytics Dashboard
+<p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmahi07-cloud%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D70a5fd%26icon_color%3D70a5fd%26text_color%3Dffffff%26hide_border%3Dtrue" /> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmahi07-cloud%26layout%3Dcompact%26theme%3Dtransparent%26title_color%3D70a5fd%26text_color%3Dffffff%26hide_border%3Dtrue" /> </p>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmahi07-cloud%26theme%3Dtransparent%26stroke%3D70a5fd%26ring%3D70a5fd%26fire%3D70a5fd%26currStreakLabel%3D70a5fd%26sideNums%3Dffffff%26sideLabels%3Dffffff%26hide_border%3Dtrue" width="100%" /> </div>
