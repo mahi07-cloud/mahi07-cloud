@@ -1,33 +1,51 @@
 <div align="center">
-  <h1>🌌 MAHI 07 CLOUD</h1>
-  <p>🚀 <b>Full-Stack Developer | Cloud Architect | Open Source Contributor</b> 🚀</p>
-  <kbd>Building the future, one commit at a time.</kbd>
+  <h1>🌌 IDENTITY: MAHI 07 CLOUD</h1>
+  <code><b>FULL-STACK_ENGINEER // CLOUD_ARCHITECT // PROBLEM_SOLVER</b></code>
   <br/>
-  <p>━━━━━━━━━━━━━━━━━━━━━━━ ☄️ ━━━━━━━━━━━━━━━━━━━━━━━</p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=70A5FD&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);npm+install+innovation;git+commit+-m+%22Creating+Magic%22;while(live)+{+code();+}" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&color=00FFD1&center=true&vCenter=true&width=500&lines=Level+99+Javascript+Wizard;Deploying+Scalable+Solutions...;Mastering+The+MERN+Stack;Always+Learning.+Always+Coding." />
 </div>
 
 ---
 
-### 🛠 System Architecture (Tech Stack)
-> *The following modules are integrated into my daily development workflow:*
+### 📊 Player Attributes (Skill Levels)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahi07-cloud&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&icon_color=00FFD1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi07-cloud&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF" width="48%" />
+</div>
 
-```yaml
-Frontend: [React, Next.js, Tailwind, TypeScript]
-Backend:  [Node.js, Express, Rest-API, GraphQL]
-Database: [MongoDB, PostgreSQL, Redis]
-DevOps:   [AWS, Docker, Kubernetes, Terraform]
+---
 
-📈 Analytics Dashboard
-<p align="center"> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmahi07-cloud%26show_icons%3Dtrue%26theme%3Dtransparent%26title_color%3D70a5fd%26icon_color%3D70a5fd%26text_color%3Dffffff%26hide_border%3Dtrue" /> <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmahi07-cloud%26layout%3Dcompact%26theme%3Dtransparent%26title_color%3D70a5fd%26text_color%3Dffffff%26hide_border%3Dtrue" /> </p>
+### 🎒 Inventory (Tech Stack)
+> *The tools I carry into every build:*
 
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmahi07-cloud%26theme%3Dtransparent%26stroke%3D70a5fd%26ring%3D70a5fd%26fire%3D70a5fd%26currStreakLabel%3D70a5fd%26sideNums%3Dffffff%26sideLabels%3Dffffff%26hide_border%3Dtrue" width="100%" /> </div>
+| Category | Gear / Technologies |
+| :--- | :--- |
+| **⚔️ Offense (Frontend)** | `React.js` `Next.js` `TailwindCSS` `TypeScript` |
+| **🛡️ Defense (Backend)** | `Node.js` `Express` `GraphQL` `NestJS` |
+| **💎 Storage (Database)** | `MongoDB` `PostgreSQL` `Redis` `Firebase` |
+| **🌀 Magic (DevOps)** | `AWS` `Docker` `Terraform` `CI/CD Pipelines` |
 
-🕹 System Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/mahi07-cloud/mahi07-cloud/output/github-contribution-grid-snake.svg" alt="Snake Animation" /> </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,nodejs,express,mongodb,postgres,aws,docker,terraform,github&theme=dark" />
+  </a>
+</p>
 
-📡 Contact Protocol
-<p align="center"> <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your-email@example.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/DIRECT_EMAIL-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+---
 
-<div align="center"> <code><b>STATUS:</b> OPEN_FOR_COLLABORATION</code> | <code><b>LOCATION:</b> GLOBAL_CLOUD</code> </div>
+### 🏆 Achievements & Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mahi07-cloud&theme=tokyonight&no-bg=true&column=4" alt="github trophies" />
+  </a>
+</div>
+
+---
+
+### 🗺️ Recent Quest Logs (Latest Projects)
+```js
+const current_projects = {
+  nebula_dashboard: "A real-time monitoring tool for cloud assets.",
+  api_nexus: "High-performance microservice gateway.",
+  portfolio_v3: "This very profile you are viewing right now!"
+};
