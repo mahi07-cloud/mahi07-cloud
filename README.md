@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MAHI 07 CLOUD</h1>
+  <h1>MAHENDAR ESLAVATH</h1>
   <code><b>FULL-STACK_ENGINEER // PROBLEM_SOLVER</b></code>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=70A5FD&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);npm+install+innovation;git+commit+-m+%22Creating+Magic%22;while(live)+{+code()}"/>
